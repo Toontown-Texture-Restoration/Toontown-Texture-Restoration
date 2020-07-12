@@ -3,7 +3,7 @@
 The project, including this readme is tentative and still under development. Further explanation and elaboration is soon to come. 
 
 ## About
-The Toontown Texture Restoration Project (Abbreviated to TTR or TTRP) is a project aimed to implement the released higher quality Toontown textures into a texture pack. This project was initially planned out by various Toontown projects, including [Toontown Offline](https://ttoffline.com), [Toontown: Corporate Clash](https://corporateclash.net), [Tooniversal Studios](https://tooniversal.com), [Operation: Dessert Storm](https://opdessertstorm.com), and [Toontown Frenchy](https://toontownfrenchy.fr).
+The Toontown Texture Restoration Project is a project aimed to implement the released higher quality Toontown textures into a texture pack. This project was initially planned out by various Toontown projects, including [Toontown Offline](https://ttoffline.com), [Toontown: Corporate Clash](https://corporateclash.net), [Tooniversal Studios](https://tooniversal.com), [Operation: Dessert Storm](https://opdessertstorm.com), and [Toontown Frenchy](https://toontownfrenchy.fr).
 
 The original Reddit post (Curated by Poppy Cheezycorn) that explained the project direction can be found [here.](https://www.reddit.com/r/Toontown/comments/h0zmdo/psa_in_regards_to_getting_the_toontown_online_hd/)
 
