@@ -8,6 +8,7 @@ You can read more in detail from the [latest post](https://www.reddit.com/r/Toon
 
 ### Building Phase Files
 If you would like to build the folders into up-to-date multifiles, there is a batch file (``BuildFiles.bat``) that can automate the building process*
+If you are on Mac use BuildFiles.command to automate the building process. If you are on linux use BuildFiles.sh to automate the building process.
 
 ** You will need to have Panda3D installed for this to work!
 
