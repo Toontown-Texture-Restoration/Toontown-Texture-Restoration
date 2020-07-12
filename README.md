@@ -19,6 +19,8 @@ This is currently TBD. A spreadsheet will be created with further analysis on th
 
 Anybody can contribute to this repository until the project is complete! There are literally hundreds of different palettes that need to be worked on. 
 
+Download the high quality assets, pre-converted to PNG [here.](https://drive.google.com/file/d/1vXA-7tqWvDlffZonwvI82_RA1FRx1gL3/view)
+
 **A step-by-step guide on how to palletize textures is currently under a work in progress.**
 
 To get started, find a folder labeled ``!PAL_ME`` 
