@@ -4,6 +4,8 @@ The project, including this readme, is tentative and still under development. Fu
 
 ## About
 The Toontown Texture Restoration Project is a project aimed to implement the released higher quality Toontown textures into a texture pack. This project was initially planned out by various Toontown projects, including [Toontown Offline](https://ttoffline.com), [Toontown: Corporate Clash](https://corporateclash.net), [Tooniversal Studios](https://tooniversal.com), [Operation: Dessert Storm](https://opdessertstorm.com), and [Toontown Frenchy](https://toontownfrenchy.fr).
+You can read more in detail from the [latest post](https://www.reddit.com/r/Toontown/comments/hpnoqj/the_first_release_of_the_source_quality_toontown/) and the [first post](https://www.reddit.com/r/Toontown/comments/h0zmdo/psa_in_regards_to_getting_the_toontown_online_hd/) in regards to project direction. (Both posts are curated by Poppy Cheezycorn!)
+
 
 The original Reddit post (Curated by Poppy Cheezycorn) that explained the project direction can be found [here.](https://www.reddit.com/r/Toontown/comments/h0zmdo/psa_in_regards_to_getting_the_toontown_online_hd/)
 
@@ -21,11 +23,23 @@ Anybody can contribute to this repository until the project is complete! There a
 
 Download the high quality assets, pre-converted to PNG [here.](https://drive.google.com/file/d/1vXA-7tqWvDlffZonwvI82_RA1FRx1gL3/view)
 
-**A step-by-step guide on how to palletize textures is currently under a work in progress.**
+### What can I do?
 
-To get started, find a folder labeled ``!PAL_ME`` 
+ * To get started, find a folder labeled ``!PAL_ME`` within a phase. If there isn't one, that means the entire phase is complete or unstarted with the re-palletization process. There should be even more folders (or files) within the ``!PAL_ME`` folder; one for each palette sheet. From there, you will need to open up that palette in Photoshop (or GIMP) and begin converting.
+ 
+ * If you want to make smaller contributions to this project, there are other areas that can use YOUR help!
+  * If a phase does not have a ``!PAL_ME`` folder already (given it's not finished yet), create one! Then, locate that same phase in a typical resources directory *(The phase files of the Toontown Online source (2013), Toontown Rewritten, and Toontown Offline work, as long as the palette wasn't modified from the original.)* and copy all the palletes you see there, including any associated rgb files.)
+  * If a ``!PAL_ME`` folder contains textures that aren't in a subfolder, make one for each and put them in their own accordingly! 
+  * If the name of any subfolder within ``!PAL_ME`` doesn't match the name of the pallete inside, rename it! (Example: Renaming "New Folder" to "makeatoon_palette_4amla_5")
+  * If there's any sort of grammatical issue or any other mechanical errors in the written documentation (including this readme), feel free to correct and modify any as needed!
+  
 
-However, there are some strict guidelines on how contributions will be accepted:
+### Useful Tools
+[Converting PNG to JPG+RGB](https://github.com/Toontown-Texture-Restoration/Toontown-Texture-Restoration/wiki/Converting-PNG-Files-to-JPG-RGB)
+
+[How to Contribute (WIP)](https://github.com/Toontown-Texture-Restoration/Toontown-Texture-Restoration/wiki/How-to-Contribute:-A-Step-by-Step-Guide)
+
+**A step-by-step guide on how to palletize textures is currently under a work in progress.** 
 
 ### Contribution Guidelines
 
