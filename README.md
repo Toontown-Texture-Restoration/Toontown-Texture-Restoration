@@ -6,9 +6,6 @@ The project, including this readme, is tentative and still under development. Fu
 The Toontown Texture Restoration Project is a project aimed to implement the released higher quality Toontown textures into a texture pack. This project was initially planned out by various Toontown projects, including [Toontown Offline](https://ttoffline.com), [Toontown: Corporate Clash](https://corporateclash.net), [Tooniversal Studios](https://tooniversal.com), [Operation: Dessert Storm](https://opdessertstorm.com), and [Toontown Frenchy](https://toontownfrenchy.fr).
 You can read more in detail from the [latest post](https://www.reddit.com/r/Toontown/comments/hpnoqj/the_first_release_of_the_source_quality_toontown/) and the [first post](https://www.reddit.com/r/Toontown/comments/h0zmdo/psa_in_regards_to_getting_the_toontown_online_hd/) in regards to project direction. (Both posts are curated by Poppy Cheezycorn!)
 
-
-The original Reddit post (Curated by Poppy Cheezycorn) that explained the project direction can be found [here.](https://www.reddit.com/r/Toontown/comments/h0zmdo/psa_in_regards_to_getting_the_toontown_online_hd/)
-
 ### Building Phase Files
 If you would like to build the folders into up-to-date multifiles, there is a batch file (``BuildFiles.bat``) that can automate the building process*
 
