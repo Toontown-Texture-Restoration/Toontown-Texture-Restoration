@@ -1,6 +1,6 @@
 # The Toontown Texture Restoration Project
 
-The project, including this readme is tentative and still under development. Further explanation and elaboration is soon to come. 
+The project, including this readme, is tentative and still under development. Further explanation and elaboration is soon to come. 
 
 ## About
 The Toontown Texture Restoration Project is a project aimed to implement the released higher quality Toontown textures into a texture pack. This project was initially planned out by various Toontown projects, including [Toontown Offline](https://ttoffline.com), [Toontown: Corporate Clash](https://corporateclash.net), [Tooniversal Studios](https://tooniversal.com), [Operation: Dessert Storm](https://opdessertstorm.com), and [Toontown Frenchy](https://toontownfrenchy.fr).
@@ -43,9 +43,9 @@ Contributions to this repository are done via **pull requests.** You will need t
 
 * b) Palettes that have a corresponding alpha file (``_a.rgb``) should include rather:
    * The jpg and a newly created _a.rgb for the provided palette.
-   * A PNG version of the palette with transparency. The process of converting the palette into a proper JPG + RGB combo can be done through a different pull request. 
+   * A PNG version of the palette with transparency. The process of converting the palette into a proper JPG + RGB combo can be done through a different pull request. When creating a PNG version of the pallete in question, please try and do it from your lossless project files. Unlike JPG, PNG allows for keeping the full quality of an asset, alongside allowing for transparency without an RGB file. Take advantage of it, when you can.
 
-* c) Palette dimensions should be in the power of two. It is also  advised to *upscale first* before placing down any assets. For example, if you are working on a palette of an initial resolution of 128x128, it's recommended to resize textures to powers of 2. A 4x scale from 128x128 should suffice in most cases, but, if the pallete is bigger, upscale to whatever resolution you need, for the texture to fit into the pallete. When upscaling, it is strongly recommended to use Nearest Neighbor Upscaling, for Bilinear upscaling will result in a in a blurrier texture, potentially losing detail.
+* c) Palette dimensions should be in the power of two. It is also  advised to *upscale first* before placing down any assets. For example, if you are working on a palette of an initial resolution of 128x128, it's recommended to resize textures to powers of 2. A 4x scale from 128x128, to 512x512, should suffice in most cases, but, if the pallete is bigger, upscale to whatever resolution you need, for the texture to fit into the pallete. When upscaling, it is strongly recommended to use Nearest Neighbor Upscaling, for Bilinear upscaling will result in a in a blurrier texture, potentially losing detail.
 
 * d) **Please read carefully if you are using Photoshop:** It is __STRONGLY__ recommended to have individual assets imported as *smart objects* before resizing them in the palette. Typically Photoshop automatically does this if you are dragging and dropping them into the canvas, but does not do it automatically if you were to copy and paste the asset onto the canvas itself.
 
