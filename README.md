@@ -12,8 +12,15 @@ If you are on Mac use BuildFiles.command to automate the building process. If yo
 
 ** You will need to have Panda3D installed for this to work!
 
+### Version Differences
+The default branch of this repo, ``master``, is aimed to preserve as much of the *original* quality of Pandora assets as possible. That being said, while it's possible to further upscale pandora textures into even higher resolutions, artificial upscaling != original assets.
+
+There are also other limitations across different Toontown projects such as Toontown Rewritten, in which original textures are repalletized and/or renamed. In addition to this, Toontown Rewritten's engine is set to only draw up to a certain maximum resolution of 512x512 for each texture.
+
+To mitigate both of these concerns, two seperate branches have been created for reasons stated above. When most of the textures are game-ready or near completion, official 'releases' will additonally provide an option for each different version (branch) of the project.
+
 ## Completion Progress
-This is currently TBD. A spreadsheet will be created with further analysis on the project completion.
+A link to the current asynchronised spreadsheet can be found [here.](https://docs.google.com/spreadsheets/d/1B_1q37iiUtAJ18XSbzQIP_r2O9h2qI8J_DuxZ-eZtNw/edit?usp=sharing) Commenting is allowed. *Credit to Disyer for creating this!*
 
 ## Contributing
 
@@ -57,15 +64,23 @@ Contributions to this repository are done via **pull requests.** You will need t
    * The jpg and a newly created _a.rgb for the provided palette.
    * A PNG version of the palette with transparency. The process of converting the palette into a proper JPG + RGB combo can be done through a different pull request. When creating a PNG version of the pallete in question, please try and do it from your lossless project files. Unlike JPG, PNG allows for keeping the full quality of an asset, alongside allowing for transparency without an RGB file. Take advantage of it, when you can.
 
-* c) Palette dimensions should be in the power of two. It is also  advised to *upscale first* before placing down any assets. For example, if you are working on a palette of an initial resolution of 128x128, it's recommended to resize textures to powers of 2. A 4x scale from 128x128, to 512x512, should suffice in most cases, but, if the pallete is bigger, upscale to whatever resolution you need, for the texture to fit into the pallete. When upscaling, it is strongly recommended to use Nearest Neighbor Upscaling, for Bilinear upscaling will result in a in a blurrier texture, potentially losing detail.
+* c) Palette dimensions should be in the power of two. It is also  advised to *upscale first* before placing down any assets. For example, if you are working on a palette of an initial resolution of 128x128, it's recommended to resize textures to powers of 2. A 4x scale from 128x128, to 512x512, should suffice in most cases, but, if the pallete is bigger, upscale to whatever resolution you need, for the texture to fit into the pallete. When upscaling, it is strongly recommended to use Nearest Neighbor Upscaling, for Bilinear upscaling will result in a in a blurrier texture, potentially losing detail. In addition, the highest resolution that will be accepted for a texture is **1024x1024**.
 
 * d) **Please read carefully if you are using Photoshop:** It is __STRONGLY__ recommended to have individual assets imported as *smart objects* before resizing them in the palette. Typically Photoshop automatically does this if you are dragging and dropping them into the canvas, but does not do it automatically if you were to copy and paste the asset onto the canvas itself.
 
 * e) Triple check your export settings to ensure that you are exporting at **100% quality** (especially for JPEGs)
+
+* f) Palettes or textures that are project-exclusive or artificially manipulated go into branches **designated** for these type of contributions. Currently, we are accepting
+  * Pull requests for assets aimed for Toontown Rewritten compatibility will only be accepted if merging into the ``Rewritten-Compatibility`` branch.
+  * Pull requests for artificially modified textures, such as Waifu2x or any other AI/ML-based upscaling process, will only be accepted if merging into the ``AI-Enhancements`` branch. 
 
 After sending a pull request, a reviewer will check over and verify that the pull request follows all of the guidelines from above.
 
 ## Credits
 
 The credits page is currently a work in progress.
+
+## Contact
+
+ There is currently one active and two passive maintainers of this project. For any questions or comments, you can contact the currently active maintainer via Discord: ``loonatic#1337`` or by email ``loonatic@loonatic.pro``. 
 
