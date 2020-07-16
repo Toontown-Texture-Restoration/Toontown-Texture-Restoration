@@ -26,7 +26,7 @@ A link to the current asynchronised spreadsheet can be found [here.](https://doc
 
 Anybody can contribute to this repository until the project is complete! There are literally hundreds of different palettes that need to be worked on. 
 
-Download the high quality assets, pre-converted to PNG [here.](https://drive.google.com/file/d/1vXA-7tqWvDlffZonwvI82_RA1FRx1gL3/view)
+Download the high quality assets, pre-converted to PNG [here.](https://drive.google.com/file/d/1MoNHyylltRopR5Tb-FAx7RGxDLUuZgKY/view)
 
 ### What can I do?
 
