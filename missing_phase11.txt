@@ -1,0 +1,7 @@
+# Wrong order, most likely due to a texture not being inside the palette
+lawbotHQ_palette_3cmla_10.jpg
+lawbotHQ_palette_3cmla_5.jpg
+lawbotHQ_palette_3cmla_6.jpg
+lawbotHQ_palette_3cmla_7.jpg
+lawbotHQ_palette_3cmla_8.jpg
+lawbotHQ_palette_3cmla_9.jpg

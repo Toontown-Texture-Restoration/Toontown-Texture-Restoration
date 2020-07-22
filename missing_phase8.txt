@@ -1,0 +1,32 @@
+# Wrong order
+daisys_garden_common_palette_3cmla_1.jpg
+daisys_garden_common_palette_3cmla_2.jpg
+daisys_garden_common_palette_4amla_1.jpg
+daisys_garden_common_palette_4amla_1_a.rgb
+
+# Wrong order
+donalds_dreamland_safezone_palette_4amla_1.jpg
+donalds_dreamland_safezone_palette_4amla_1_a.rgb
+donalds_dreamland_streets_palette_3cmla_1.jpg
+
+# Wrong order
+the_burrrgh_streets_palette_3cmla_2.jpg
+the_burrrgh_streets_palette_3cmla_3.jpg
+
+# Silly Meter, not in Pandora
+tt_t_ara_ddl_foreSign.jpg
+tt_t_ara_ddl_jellybeanJamSign.jpg
+tt_t_ara_ddl_mailbox.jpg
+tt_t_ara_ddl_sillyMeterSign.jpg
+tt_t_ara_ddl_stormSellbotSign.jpg
+tt_t_ara_ddl_trashcan.jpg
+tt_t_ara_ddl_trickOrTreatSign.jpg
+tt_t_ara_ddl_victoryPartySign.jpg
+tt_t_ara_ddl_victorySoonSign.jpg
+tt_t_ara_dga_hydrant.jpg
+tt_t_ara_dga_mailbox.jpg
+tt_t_ara_dga_petShop_doodleSilhouette.jpg
+tt_t_ara_dga_petShop_doodleSilhouette_a.rgb
+tt_t_ara_dga_trashcan.jpg
+tt_t_ara_tbr_mailbox.jpg
+tt_t_ara_tbr_trashcan.jpg

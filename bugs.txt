@@ -1,0 +1,1 @@
+Windows do not display correctly on flat buildings, most likely there is an erronous palette somewhere.

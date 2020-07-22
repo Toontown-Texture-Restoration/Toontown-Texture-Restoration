@@ -1,0 +1,89 @@
+# Skip button, not in Pandora
+battle_gui_palette_4amla_1.jpg
+battle_gui_palette_4amla_1_a.rgb
+
+# Get Connected GM icons, not in Pandora
+gamegui_palette_3clla_1.jpg
+
+# Field Office Emblems added (not in Pandora) ==> wrong order
+gamegui_palette_2tmla_1.jpg
+gamegui_palette_2tmla_1_a.rgb
+gamegui_palette_4amla_1.jpg
+gamegui_palette_4amla_1_a.rgb
+
+# Wrong order
+gamegui_palette_3cmla_2.jpg
+
+# Toon News, not in Pandora
+inGameNews_gui_palette_2tmla_1.jpg
+inGameNews_gui_palette_2tmla_1_a.rgb
+inGameNews_gui_palette_3cmla_1.jpg
+inGameNews_gui_palette_3cmla_2.jpg
+inGameNews_gui_palette_4amla_1.jpg
+inGameNews_gui_palette_4amla_1_a.rgb
+inGameNews_gui_palette_4amla_2.jpg
+inGameNews_gui_palette_4amla_2_a.rgb
+inGameNews_gui_palette_4amla_3.jpg
+inGameNews_gui_palette_4amla_3_a.rgb
+inGameNews_gui_palette_4amla_4.jpg
+inGameNews_gui_palette_4amla_4_a.rgb
+
+# Wrong order: please merge
+# neighborhood_common_tutorial_palette_4amla_1.jpg, neighborhood_common_tutorial_palette_4amla_2.jpg
+# from Pandora Palettizer's built_palettes to recreate
+neighborhood_common_tutorial_palette_4amla_1.jpg
+neighborhood_common_tutorial_palette_4amla_1_a.rgb
+neighborhood_common_tutorial_palette_4amla_2.jpg
+neighborhood_common_tutorial_palette_4amla_2_a.rgb
+
+# Wrong order
+phase_3.5_palette_3cmla_2.jpg
+phase_3.5_palette_3cmla_3.jpg
+phase_3.5_palette_4amla_1.jpg
+phase_3.5_palette_4amla_1_a.rgb
+phase_3.5_palette_4amla_2.jpg
+phase_3.5_palette_4amla_2_a.rgb
+
+# Redemption Codes added (not in Pandora) ===> wrong order
+# Part of these are mostly in right order 
+stickerbook_palette_3cmla_1.jpg
+stickerbook_palette_4alla_2.jpg
+stickerbook_palette_4alla_2_a.rgb
+stickerbook_palette_4alla_4.jpg
+stickerbook_palette_4alla_4_a.rgb
+stickerbook_palette_4alla_5.jpg
+stickerbook_palette_4alla_5_a.rgb
+stickerbook_palette_4alla_6.jpg
+stickerbook_palette_4alla_6_a.rgb
+stickerbook_palette_4amla_1.jpg
+stickerbook_palette_4amla_1_a.rgb
+stickerbook_palette_4amla_2.jpg
+stickerbook_palette_4amla_2_a.rgb
+stickerbook_palette_4amla_3.jpg
+stickerbook_palette_4amla_3_a.rgb
+stickerbook_palette_4amla_4.jpg
+stickerbook_palette_4amla_4_a.rgb
+
+# Code redemption, new suits, Toon News: not in Pandora
+tt_i_art_err1.jpg
+tt_t_ene_bossbot.jpg
+tt_t_ene_cashbot.jpg
+tt_t_ene_lawbot.jpg
+tt_t_ene_sellbot.jpg
+tt_t_ene_sellbotRental_arm.jpg
+tt_t_ene_sellbotRental_blazer.jpg
+tt_t_ene_sellbotRental_hand.jpg
+tt_t_ene_sellbotRental_leg.jpg
+tt_t_ene_sellbotRental_shoe.jpg
+tt_t_ene_sellbotRental_sleeve.jpg
+tt_t_gui_sbk_cdrResultPanel_success.jpg
+tt_t_gui_sbk_cdrResultPanel_success_a.rgb
+tt_t_gui_sbk_newsPageTab.jpg
+tt_t_gui_sbk_newsPageTab_a.rgb
+
+# Missing RGB variants: recreate from PNG if wanted
+# These are tricky, we have the PNG variant, but the old-style variant is missing
+# They are not JPG files, they're RGB files
+# NOT A PRIORITY
+tutorial_suits_palette_2tmlc_1.rgb
+tutorial_suits_palette_4amlc_1.rgb

@@ -1,0 +1,101 @@
+# Field Offices. Not in Pandora.
+cogdogame_palette_3cmla_1.jpg
+cogdogame_palette_4amla_1.jpg
+cogdogame_palette_4amla_1_a.rgb
+cogdominiumElevator.jpg
+cogdominium_palette_2tmla_1.jpg
+cogdominium_palette_2tmla_1_a.rgb
+cogdominium_palette_3cmla_1.jpg
+cogdominium_palette_3cmla_3.jpg
+cogdominium_palette_3cmla_4.jpg
+cogdominium_palette_3cmla_5.jpg
+cogdominium_palette_4amla_2.jpg
+cogdominium_palette_4amla_2_a.rgb
+
+# Missing RGB variants. They are small textures anyways,
+# so those are not a priority right now.
+golf_ball.rgb
+golf_club.rgb
+
+# Field Offices. Not in Pandora.
+maze_cogdogame_palette_3cmla_1.jpg
+maze_cogdogame_palette_4amla_1.jpg
+maze_cogdogame_palette_4amla_1_a.rgb
+maze_flying_cogdogame_palette_3cmla_1.jpg
+maze_flying_cogdogame_palette_3cmla_2.jpg
+maze_flying_cogdogame_palette_3cmla_3.jpg
+
+# Cog Buildings, wrong order
+neighborhood_streets_common_palette_3cmla_1.jpg
+neighborhood_streets_common_palette_3cmla_2.jpg
+
+# Wrong order due to Field Offices which are not in Pandora
+phase_5_palette_3cmla_1.jpg
+phase_5_palette_3cmla_2.jpg
+phase_5_palette_3cmla_3.jpg
+phase_5_palette_3cmla_4.jpg
+
+# Wrong order
+phase_5_palette_4amla_1.jpg
+phase_5_palette_4amla_1_a.rgb
+
+# As far as I know, larger variants of this texture do not exist.
+splash.jpg
+splash_a.rgb
+
+# Wrong order
+toontown_central_streets_palette_3cmla_2.jpg
+toontown_central_streets_palette_3cmla_3.jpg
+toontown_central_streets_palette_3cmla_4.jpg
+
+# Field Offices, not in Pandora
+tt_t_ara_cbr_Barrel_Used.jpg
+tt_t_ara_cbr_Barrel_notUsed.jpg
+tt_t_ara_cbr_battleArea.jpg
+tt_t_ara_cbr_framework.jpg
+tt_t_ara_cbr_steelWalls.jpg
+tt_t_ara_cbr_stomper.jpg
+tt_t_ara_ccg_floorCieling_deco.jpg
+tt_t_ara_ccg_safesA.jpg
+tt_t_ara_ccp_cloudSphere.jpg
+tt_t_ara_cfg_boxStack_box_lightGray.jpg
+tt_t_ara_cmg_wallBarrier.jpg
+tt_t_ara_cmg_waterCooler.jpg
+tt_t_ara_cpg_bossChair.jpg
+tt_t_ara_cpg_bossDesk.jpg
+tt_t_ara_cpg_chairSmall.jpg
+tt_t_ara_cpg_chairSmall_a.rgb
+tt_t_ara_cpg_counter.jpg
+tt_t_ara_cpg_deskClockB.jpg
+tt_t_ara_cpg_deskClock_alpha.jpg
+tt_t_ara_cpg_deskClock_alpha_a.rgb
+tt_t_ara_cpg_floorLamp.jpg
+tt_t_ara_cpg_floorLamp_a.rgb
+tt_t_ara_cpg_hangingLight.jpg
+tt_t_ara_cpg_lampA.jpg
+tt_t_ara_cpg_lampB.jpg
+tt_t_ara_cpg_machine1.jpg
+tt_t_ara_cpg_machine3.jpg
+tt_t_ara_cpg_radio.jpg
+tt_t_ara_cpg_wallDetail.jpg
+tt_t_ara_crg_bossChair.jpg
+tt_t_ara_crg_bossDesk.jpg
+tt_t_ara_crg_cloudCard2.jpg
+tt_t_ara_crg_counterB.jpg
+tt_t_ara_crg_floor.jpg
+tt_t_ara_crg_machines.jpg
+tt_t_ara_crg_toonCage.jpg
+tt_t_ara_crg_toonCage_a.rgb
+tt_t_ara_crg_trophyCase.jpg
+tt_t_ara_crg_tubingAndCeilingWallDetail.jpg
+tt_t_ara_crg_wallDetailC.jpg
+tt_t_ara_csa_bookcase.jpg
+tt_t_ara_csa_elevatorB.jpg
+tt_t_ara_csa_lightbulbs.jpg
+tt_t_ara_csa_lightbulbs_a.rgb
+tt_t_ara_csa_memo.jpg
+tt_t_ara_csa_paintingFrame.jpg
+tt_t_ara_ttc_mailbox.jpg
+tt_t_ara_ttc_trashcan.jpg
+tt_t_gui_cmg_miniMap_frame.jpg
+tt_t_gui_cmg_miniMap_frame_a.rgb

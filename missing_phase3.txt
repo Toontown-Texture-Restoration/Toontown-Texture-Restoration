@@ -1,0 +1,23 @@
+# Wrong order, Make a Toon changes might not be in Pandora
+avatar_palette_1lmla_1.jpg
+avatar_palette_1lmla_2.jpg
+avatar_palette_4amla_1.jpg
+avatar_palette_4amla_1_a.rgb
+
+# Wrong order, Make a Toon changes might not be in Pandora
+makeatoon_palette_3cmla_1.jpg
+
+# FONTS, not necessary
+HastyPudding_1.rgb
+Scurlock_1.rgb
+phase_3_palette_1amlc_5.rgb
+phase_3_palette_1amlc_6.rgb
+phase_3_palette_2tmlc_1.rgb
+phase_3_palette_2tmlc_2.rgb
+
+# Not in Pandora
+tt_t_chr_avt_acc_sho_athleticGreen.jpg
+tt_t_chr_avt_acc_sho_docMartinBootsGreen.jpg
+tt_t_chr_avt_acc_sho_docMartinBootsGreenLL.jpg
+tt_t_gui_pat_loadingPopup.jpg
+tt_t_gui_pat_loadingPopup_a.rgb

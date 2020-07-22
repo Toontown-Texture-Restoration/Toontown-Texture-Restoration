@@ -1,0 +1,76 @@
+phase_3:
+- These are stray files, should be in a palette
+drafting_table.jpg
+drafting_table_a.rgb
+
+
+phase_3.5:
+- These are stray files, should be in a palette
+door_single_frenchGlass.jpg
+door_single_frenchGlass_a.rgb
+tt_t_ara_int_toonhall.jpg
+
+
+phase_4:
+- These are stray files
+- Technically speaking, the tt_m_int_snowmanHeads could replace the tt_t_efx_snowmanHeads
+- However, they're shaded differently, so I did not merge those
+factExtDoorwaySide1.jpg
+treehouse_plat_step1.jpg
+treehouse_plat_step4.jpg
+tt_m_int_snowmanHead_short.jpg
+tt_m_int_snowmanHead_tall.jpg
+weight1ton2.jpg
+
+
+phase_5:
+- These were all put here from other phases
+- The Palettizer put them into other phases. But TTO uses them in THIS phase...
+CementFloor7.jpg
+LB_Ceiling3.jpg
+LB_LtGreen.jpg
+TracksA.jpg
+TracksA_a.rgb
+
+- These are extra stray files that are not part of anything, but kept them...
+CementFloorx4.jpg
+golf_ball.jpg
+golf_club.jpg
+platformTop.jpg
+tt_t_ara_TT_hydrant.jpg
+
+
+phase_5.5:
+- These are missing from the palettes (stray files)
+UWLobsterChairBody3.jpg
+canC_2.jpg
+sideADesat.jpg
+
+underwater_neptune.jpg
+underwater_neptune_a.rgb
+- These can be taken from Spotify, problem is that it's being stretched so much that I don't know what to do with it.
+
+
+phase_6:
+
+- These are missing from the palettes (stray files, RGB ones are most likely irrelevant)
+GoofyStadium_curb1_a.rgb
+GoofyStadium_curb2_a.rgb
+GoofyStadium_curb3_a.rgb
+LB_flower_basket.jpg
+LB_flower_basket_a.rgb
+golf_windmill_club.jpg
+kartshop_trophywindowback.jpg
+
+-
+qbox.jpg is in a palette instead of being a separate texture
+(goofy_speedway_palette_3cmla_1.jpg
+   - by the way, this also contains a texture from goofy_speedway_palette_2tmla_1.jpg )
+
+
+phase_7:
+- column.jpg missing from suit_interior_palette_3cmla_2.jpg , ruins order
+
+
+phase_9:
+- Remove RadioBox_map.jpg from palette and recalculate, bet it would work

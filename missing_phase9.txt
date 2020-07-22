@@ -1,0 +1,14 @@
+# Please rescale those and save as JPG+RGB+PNG.
+PipeJoint.jpg
+PipeJoint_a.rgb
+
+# Take this out from the palette and save as JPG+PNG, please!
+RadioBox_map.jpg
+
+# Wrong order
+cogHQ_palette_3cmla_4.jpg
+cogHQ_palette_3cmla_5.jpg
+
+# Please rescale this and save as JPG+RGB+PNG.
+pipe_frame4.jpg
+pipe_frame4_a.rgb
