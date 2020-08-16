@@ -1,0 +1,3 @@
+# Only missing in no-boiler model used by newer TTO
+# Beta TTO used a model with boilers. We have the complete palette for that
+suit_interior_palette_3cmla_2.jpg

@@ -1,0 +1,7 @@
+# Please save this as JPG+RGB and PNG
+CBRoundEnd.jpg
+CBRoundEnd_a.rgb
+
+# Wrong order
+cashbotHQ_palette_3cmla_1.jpg
+cashbotHQ_palette_3cmla_2.jpg

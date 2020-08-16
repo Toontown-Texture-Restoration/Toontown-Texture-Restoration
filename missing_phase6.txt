@@ -1,0 +1,48 @@
+# Wrong order
+golf_palette_3cmla_4.jpg
+golf_palette_3cmla_5.jpg
+golf_palette_4amla_3.jpg
+golf_palette_4amla_3_a.rgb
+
+# Wrong order
+goofy_speedway_interior_palette_2tmla_1.jpg
+goofy_speedway_interior_palette_2tmla_1_a.rgb
+goofy_speedway_interior_palette_3cmla_1.jpg
+goofy_speedway_interior_palette_3cmla_2.jpg
+goofy_speedway_interior_palette_3cmla_3.jpg
+goofy_speedway_interior_palette_3cmla_4.jpg
+goofy_speedway_karts_palette_3cmla_1.jpg
+goofy_speedway_karts_palette_3cmla_2.jpg
+goofy_speedway_karts_palette_3cmla_3.jpg
+goofy_speedway_karts_palette_3cmla_4.jpg
+goofy_speedway_karts_palette_3cmla_5.jpg
+goofy_speedway_karts_palette_3cmla_6.jpg
+goofy_speedway_palette_2tmla_1.jpg
+goofy_speedway_palette_2tmla_1_a.rgb
+goofy_speedway_safezone_palette_3cmla_4.jpg
+
+# Wrong order due to texture refactoring by Disney (see tt_t_chr_pluto.jpg)
+phase_6_palette_2tmla_1.jpg
+phase_6_palette_2tmla_1_a.rgb
+phase_6_palette_3cmla_1.jpg
+phase_6_palette_3cmla_2.jpg
+phase_6_palette_3cmla_3.jpg
+phase_6_palette_4amla_1.jpg
+phase_6_palette_4amla_1_a.rgb
+
+# Wrong order
+pluto_palette_3cmla_1.jpg
+
+# Silly Meter props, not in Pandora
+tt_t_ara_dod_trashcan.jpg
+tt_t_ara_mml_hydrant.jpg
+tt_t_ara_mml_mailbox.jpg
+tt_t_ara_mml_trashcan.jpg
+tt_t_chr_csc_chipBody.jpg
+tt_t_chr_csc_chipCostume.jpg
+tt_t_chr_csc_daleBody.jpg
+tt_t_chr_csc_daleCostume.jpg
+tt_t_chr_csc_donaldCostume.jpg
+tt_t_chr_pluto.jpg
+tt_t_efx_ext_smoke.jpg
+tt_t_efx_ext_smoke_a.rgb

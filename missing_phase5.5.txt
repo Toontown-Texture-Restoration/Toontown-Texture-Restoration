@@ -1,0 +1,78 @@
+# Estate interior changes, wrong order. Some of those might not be in Pandora...
+estate_interior_palette_1lmla_2.jpg
+estate_interior_palette_3cmla_1.jpg
+estate_interior_palette_3cmla_10.jpg
+estate_interior_palette_3cmla_11.jpg
+estate_interior_palette_3cmla_12.jpg
+estate_interior_palette_3cmla_13.jpg
+estate_interior_palette_3cmla_14.jpg
+estate_interior_palette_3cmla_15.jpg
+estate_interior_palette_3cmla_16.jpg
+estate_interior_palette_3cmla_17.jpg
+estate_interior_palette_3cmla_18.jpg
+estate_interior_palette_3cmla_2.jpg
+estate_interior_palette_3cmla_3.jpg
+estate_interior_palette_3cmla_4.jpg
+estate_interior_palette_3cmla_5.jpg
+estate_interior_palette_3cmla_6.jpg
+estate_interior_palette_3cmla_7.jpg
+estate_interior_palette_3cmla_8.jpg
+estate_interior_palette_3cmla_9.jpg
+estate_interior_palette_4alla_2_a.rgb
+estate_interior_palette_4amla_1.jpg
+estate_interior_palette_4amla_10.jpg
+estate_interior_palette_4amla_10_a.rgb
+estate_interior_palette_4amla_1_a.rgb
+estate_interior_palette_4amla_2.jpg
+estate_interior_palette_4amla_2_a.rgb
+estate_interior_palette_4amla_3.jpg
+estate_interior_palette_4amla_3_a.rgb
+estate_interior_palette_4amla_4.jpg
+estate_interior_palette_4amla_4_a.rgb
+estate_interior_palette_4amla_5.jpg
+estate_interior_palette_4amla_5_a.rgb
+estate_interior_palette_4amla_6.jpg
+estate_interior_palette_4amla_6_a.rgb
+estate_interior_palette_4amla_7.jpg
+estate_interior_palette_4amla_7_a.rgb
+estate_interior_palette_4amla_8.jpg
+estate_interior_palette_4amla_8_a.rgb
+estate_interior_palette_4amla_9.jpg
+estate_interior_palette_4amla_9_a.rgb
+
+# Estate changes, wrong order. Some of those might not be in Pandora...
+estate_palette_3cmla_10.jpg
+estate_palette_3cmla_6.jpg
+estate_palette_3cmla_7.jpg
+estate_palette_3cmla_8.jpg
+estate_palette_3cmla_9.jpg
+estate_palette_4amla_10.jpg
+estate_palette_4amla_10_a.rgb
+estate_palette_4amla_2.jpg
+estate_palette_4amla_2_a.rgb
+estate_palette_4amla_3.jpg
+estate_palette_4amla_3_a.rgb
+estate_palette_4amla_4.jpg
+estate_palette_4amla_4_a.rgb
+estate_palette_4amla_5.jpg
+estate_palette_4amla_5_a.rgb
+estate_palette_4amla_6.jpg
+estate_palette_4amla_6_a.rgb
+estate_palette_4amla_7.jpg
+estate_palette_4amla_7_a.rgb
+estate_palette_4amla_8.jpg
+estate_palette_4amla_8_a.rgb
+estate_palette_4amla_9.jpg
+estate_palette_4amla_9_a.rgb
+
+# Not in Pandora
+tt_t_ara_est_accessoryTrunkBoy.jpg
+tt_t_ara_est_accessoryTrunkGirl.jpg
+tt_t_ara_pty_cogTubeVictory.jpg
+
+# This is a weird texture.. it's really stretched.
+# So I left the TTO variant in for now...
+# If you have any ideas, please create a PNG and JPG variant.
+# Not a priority, however.
+underwater_neptune.jpg
+underwater_neptune_a.rgb
