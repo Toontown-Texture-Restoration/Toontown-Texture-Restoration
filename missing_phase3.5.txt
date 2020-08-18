@@ -6,13 +6,13 @@ battle_gui_palette_4amla_1_a.rgb
 gamegui_palette_3clla_1.jpg
 
 # Field Office Emblems added (not in Pandora) ==> wrong order
-gamegui_palette_2tmla_1.jpg
-gamegui_palette_2tmla_1_a.rgb
-gamegui_palette_4amla_1.jpg
-gamegui_palette_4amla_1_a.rgb
+gamegui_palette_2tmla_1.jpg (Corrected)
+gamegui_palette_2tmla_1_a.rgb (Corrected
+gamegui_palette_4amla_1.jpg (Corrected)
+gamegui_palette_4amla_1_a.rgb (Corrected
 
 # Wrong order
-gamegui_palette_3cmla_2.jpg
+gamegui_palette_3cmla_2.jpg (Corrected)
 
 # Toon News, not in Pandora
 inGameNews_gui_palette_2tmla_1.jpg
@@ -29,40 +29,43 @@ inGameNews_gui_palette_4amla_4.jpg
 inGameNews_gui_palette_4amla_4_a.rgb
 
 # Wrong order: please merge
-# neighborhood_common_tutorial_palette_4amla_1.jpg, neighborhood_common_tutorial_palette_4amla_2.jpg
+#neighborhood_common_tutorial_palette_4amla_1.jpg, (Corrected)
+neighborhood_common_tutorial_palette_4amla_2.jpg (Corrected)
 # from Pandora Palettizer's built_palettes to recreate
-neighborhood_common_tutorial_palette_4amla_1.jpg
-neighborhood_common_tutorial_palette_4amla_1_a.rgb
-neighborhood_common_tutorial_palette_4amla_2.jpg
-neighborhood_common_tutorial_palette_4amla_2_a.rgb
+neighborhood_common_tutorial_palette_4amla_1.jpg (Corrected)
+neighborhood_common_tutorial_palette_4amla_1_a.rgb (Corrected)
+neighborhood_common_tutorial_palette_4amla_2.jpg (Corrected)
+neighborhood_common_tutorial_palette_4amla_2_a.rgb (Corrected)
 
 # Wrong order
-phase_3.5_palette_3cmla_2.jpg
-phase_3.5_palette_3cmla_3.jpg
-phase_3.5_palette_4amla_1.jpg
-phase_3.5_palette_4amla_1_a.rgb
-phase_3.5_palette_4amla_2.jpg
-phase_3.5_palette_4amla_2_a.rgb
+phase_3.5_palette_3cmla_2.jpg (incorrectly marked) (corrected)
+phase_3.5_palette_3cmla_3.jpg (corrected)
+phase_3.5_palette_4amla_1.jpg (corrected)
+phase_3.5_palette_4amla_1_a.rgb (corrected)
+phase_3.5_palette_4amla_2.jpg (corrected)
+phase_3.5_palette_4amla_2_a.rgb (corrected)
 
 # Redemption Codes added (not in Pandora) ===> wrong order
 # Part of these are mostly in right order 
-stickerbook_palette_3cmla_1.jpg
-stickerbook_palette_4alla_2.jpg
-stickerbook_palette_4alla_2_a.rgb
-stickerbook_palette_4alla_4.jpg
-stickerbook_palette_4alla_4_a.rgb
-stickerbook_palette_4alla_5.jpg
-stickerbook_palette_4alla_5_a.rgb
-stickerbook_palette_4alla_6.jpg
-stickerbook_palette_4alla_6_a.rgb
-stickerbook_palette_4amla_1.jpg
-stickerbook_palette_4amla_1_a.rgb
-stickerbook_palette_4amla_2.jpg
-stickerbook_palette_4amla_2_a.rgb
-stickerbook_palette_4amla_3.jpg
-stickerbook_palette_4amla_3_a.rgb
-stickerbook_palette_4amla_4.jpg
-stickerbook_palette_4amla_4_a.rgb
+stickerbook_palette_3cmla_1.jpg (incorrectly marked) (corrected)
+stickerbook_palette_4alla_1.jpg (corrected)
+stickerbook_palette_4alla_1_a.rgb (corrected)
+stickerbook_palette_4alla_2.jpg (corrected)
+stickerbook_palette_4alla_2_a.rgb (corrected)
+stickerbook_palette_4alla_4.jpg (corrected) 
+stickerbook_palette_4alla_4_a.rgb (corrected)
+stickerbook_palette_4alla_5.jpg (corrected)
+stickerbook_palette_4alla_5_a.rgb (corrected)
+stickerbook_palette_4alla_6.jpg (corrected)
+stickerbook_palette_4alla_6_a.rgb (corrected)
+stickerbook_palette_4amla_1.jpg (corrected)
+stickerbook_palette_4amla_1_a.rgb (corrected)
+stickerbook_palette_4amla_2.jpg (incorrectly marked) (corrected)
+stickerbook_palette_4amla_2_a.rgb (incorrectly marked) (corrected)
+stickerbook_palette_4amla_3.jpg (incorrectly marked) (corrected)
+stickerbook_palette_4amla_3_a.rgb (incorrectly marked) corrected)
+stickerbook_palette_4amla_4.jpg (corrected)
+stickerbook_palette_4amla_4_a.rgb (corrected)
 
 # Code redemption, new suits, Toon News: not in Pandora
 tt_i_art_err1.jpg
