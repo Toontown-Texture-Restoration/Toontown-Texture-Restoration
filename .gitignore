@@ -1,2 +1,9 @@
 *.mf
 *.gdoc
+*.py
+*.bak
+*.pyc
+.idea
+.history
+.vs
+
